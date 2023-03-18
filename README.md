@@ -16,4 +16,4 @@ In your `config.el`:
 ```
 
 # Roadmap
-  * [ ] Add Folder Icons
+  * [x] Add Folder Icons
