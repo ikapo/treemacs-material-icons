@@ -18,3 +18,4 @@ In your `config.el`:
 # Roadmap
   * [x] Add Folder Icons
   * [x] Add Fallback Icon
+  * [ ] Fix icons copying when using native compilation
