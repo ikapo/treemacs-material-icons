@@ -39,6 +39,7 @@
     (treemacs-create-icon :file "folder-open.svg"        :extensions (dir-open))
     (treemacs-create-icon :file "folder.svg"             :extensions (dir-closed))
     (treemacs-create-icon :file "file.svg"               :extensions (fallback))
+    (treemacs-create-icon :file "emacs.svg"              :extensions ("el" "elc"))
     (treemacs-create-icon :file "html.svg"               :extensions ("htm" "xhtml" "html_vm" "asp"))
     (treemacs-create-icon :file "pug.svg"                :extensions ("jade" "pug" ".pug-lintrc" ".pug-lintrc.js" ".pug-lintrc.json"))
     (treemacs-create-icon :file "markdown.svg"           :extensions ("md" "markdown" "rst"))
