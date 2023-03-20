@@ -306,7 +306,7 @@
     (treemacs-create-icon :file "mdsvex.svg"             :extensions ("svx"))
     (treemacs-create-icon :file "ballerina.svg"          :extensions ("bal" "balx"))
     (treemacs-create-icon :file "racket.svg"             :extensions ("rkt"))
-    (treemacs-create-icon :file "bazel.svg"              :extensions ("bzl" "bazel" ".bazelignore" ".bazelrc" ".bazelversion"))
+    (treemacs-create-icon :file "bazel.svg"              :extensions ("bzl" "bazel" ".bazelignore" ".bazelrc" ".bazelversion" "BUILD"))
     (treemacs-create-icon :file "mint.svg"               :extensions ("mint"))
     (treemacs-create-icon :file "velocity.svg"           :extensions ("vm" "fhtml" "vtl"))
     (treemacs-create-icon :file "godot.svg"              :extensions ("gd"))
